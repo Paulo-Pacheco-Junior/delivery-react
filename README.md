@@ -1,4 +1,4 @@
-## React | Redux | Carrinho de Compras | Modal | Filtros de Busca | Responsivo
+### React | Redux | Carrinho de Compras | Modal | Filtros de Busca | Responsivo
 
 http://delivery-de-comida-em-react.vercel.app/
 
