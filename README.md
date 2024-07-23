@@ -1,7 +1,5 @@
 ### React | Redux | Carrinho de Compras | Modal | Filtros de Busca | Responsivo
 
-http://delivery-de-comida-em-react.vercel.app/
-
 -------------------------------------------------------------------------
 Acabei de fazer uma versão bem resumida deste projeto
 em que deixei só o suficiente para demonstrar o meu conhecimento atual de Redux
