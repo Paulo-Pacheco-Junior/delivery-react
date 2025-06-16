@@ -1,8 +1,8 @@
 ### React | Redux | Carrinho de Compras | Modal | Filtros de Busca | Responsivo
 
 -------------------------------------------------------------------------
-Acabei de fazer uma versão bem resumida deste projeto
-em que deixei só o suficiente para demonstrar o meu conhecimento atual de Redux
+
+Versão resumida e refatorada do projeto DevsFood da B7WEB para demonstrar o meu conhecimento atual de Redux.
 
 ### Versão Simplificada com Redux Toolkit:
 https://github.com/Paulo-Pacheco-Junior/carrinho-de-compras-reactjs-redux-toolkit
